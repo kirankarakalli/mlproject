@@ -26,7 +26,6 @@ f"src/{project_name}/utils.py",
 "requirements.txt",
 "setup.py",
 "main.py"
-
 ]
 
 for filepath in list_of_files:
